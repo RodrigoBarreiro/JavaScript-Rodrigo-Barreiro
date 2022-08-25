@@ -19,3 +19,5 @@ while ( numero <10 || numero > 13) {
 }
 
 alert ("Presion arterial normal.");
+
+let agua 
