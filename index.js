@@ -1,4 +1,4 @@
-// prompt con ciclo FOR da turnos hasta 10 turnos por dias 
+// prompt con ciclo FOR da turnos hasta 5 turnos por dias 
 
 for (let i= 1; i <= 5; i++) {
     let ingresarNombre = prompt("ingresar Nombre");
